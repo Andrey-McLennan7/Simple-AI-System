@@ -1,4 +1,4 @@
-# Simple-AI-Systems
+# Simple-AI-Systems-Assignment
 
 You can find the projects through the links below on Google Colab
 
